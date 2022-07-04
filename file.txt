@@ -8,3 +8,4 @@ stash command testing
 
 =======
 >>>>>>> parent of 688930c (new commit after revert)
+ hi ...................
