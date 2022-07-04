@@ -1,5 +1,3 @@
 this is 1st file created in local
 to check git revert command after pushing into remote
 in a revert stage
-##############################
-adding new line
