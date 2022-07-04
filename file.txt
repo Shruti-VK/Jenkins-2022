@@ -1,7 +1,10 @@
 this is 1st file created in local
 to check git revert command after pushing into remote
 in a revert stage
+<<<<<<< HEAD
 
 ----------------------
 stash command testing
 
+=======
+>>>>>>> parent of 688930c (new commit after revert)
